@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BeerCatalog>
+    <Beer>
+        <BeerName>Темне пиво</BeerName>
+        <Type>Темне</Type>
+        <Alcohol>true</Alcohol>
+        <Manufacturer>Чернігівське</Manufacturer>
+        <Ingredients>
+            <Ingredient>Вода</Ingredient>
+            <Ingredient>Солод</Ingredient>
+            <Ingredient>Хміль</Ingredient>
+        </Ingredients>
+        <Chars>
+            <Char>Прозорість: 70%</Char>
+            <Char>Фільтроване: Так</Char>
+            <Char>Об'єм: 500мл</Char>
+        </Chars>
+    </Beer>
+    <Beer>
+        <BeerName>Світле пиво</BeerName>
+        <Type>Світле</Type>
+        <Alcohol>true</Alcohol>
+        <Manufacturer>Львівське 1715</Manufacturer>
+        <Ingredients>
+            <Ingredient>Вода</Ingredient>
+            <Ingredient>Солод</Ingredient>
+        </Ingredients>
+        <Chars>
+            <Char>Прозорість: 80%</Char>
+            <Char>Фільтроване: Ні</Char>
+            <Char>Об'єм: 300мл</Char>
+        </Chars>
+    </Beer>
+    <Beer>
+        <BeerName>Пшеничне пиво</BeerName>
+        <Type>Пшеничне</Type>
+        <Alcohol>false</Alcohol>
+        <Manufacturer>Оболонь</Manufacturer>
+        <Ingredients>
+            <Ingredient>Вода</Ingredient>
+            <Ingredient>Пшениця</Ingredient>
+            <Ingredient>Хміль</Ingredient>
+        </Ingredients>
+        <Chars>
+            <Char>Прозорість: 60%</Char>
+            <Char>Фільтроване: Так</Char>
+            <Char>Об'єм: 450мл</Char>
+        </Chars>
+    </Beer>
+    <Beer>
+        <BeerName>Медове пиво</BeerName>
+        <Type>Медове</Type>
+        <Alcohol>true</Alcohol>
+        <Manufacturer>Львівська приватна броварня</Manufacturer>
+        <Ingredients>
+            <Ingredient>Вода</Ingredient>
+            <Ingredient>Мед</Ingredient>
+            <Ingredient>Солод</Ingredient>
+        </Ingredients>
+        <Chars>
+            <Char>Прозорість: 75%</Char>
+            <Char>Фільтроване: Ні</Char>
+            <Char>Об'єм: 500мл</Char>
+        </Chars>
+    </Beer>
+    <Beer>
+        <BeerName>Імбирний ель</BeerName>
+        <Type>Імбирне</Type>
+        <Alcohol>false</Alcohol>
+        <Manufacturer>Оболонь</Manufacturer>
+        <Ingredients>
+            <Ingredient>Вода</Ingredient>
+            <Ingredient>Імбир</Ingredient>
+            <Ingredient>Цукор</Ingredient>
+        </Ingredients>
+        <Chars>
+            <Char>Прозорість: 65%</Char>
+            <Char>Фільтроване: Так</Char>
+            <Char>Об'єм: 330мл</Char>
+        </Chars>
+    </Beer>
+</BeerCatalog>
