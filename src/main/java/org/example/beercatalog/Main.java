@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        // Шляхи до ваших файлів
+        // Шляхи до файлів
         String xmlFilePath = "/Users/macbookpro/Desktop/BeerCatalog/src/main/resources/beer.xml";
         String xsdFilePath = "/Users/macbookpro/Desktop/BeerCatalog/src/main/resources/beer.xsd";
         String xslFilePath = "/Users/macbookpro/Desktop/BeerCatalog/src/main/resources/transform.xsl";
