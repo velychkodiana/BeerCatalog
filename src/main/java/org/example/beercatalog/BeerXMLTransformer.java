@@ -8,7 +8,7 @@ import java.io.File;
 
 public class BeerXMLTransformer {
 
-    // Зробіть метод статичним
+     // статичний метод transformXML
     public static void transformXML(String xmlFilePath, String xslFilePath, String transformedXmlFilePath) {
         try {
             // Створення фабрики трансформерів
